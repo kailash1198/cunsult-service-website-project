@@ -1,4 +1,4 @@
-*******************Consult Service Website Project****************
+*Consult Service Website Project*
 
 Welcome to the Consult Service Website Project! This project is a simple, clean, and responsive website designed to showcase consulting services. It was built using only HTML and CSS, making it a great example of a project focused on the fundamentals of web development.
 
